@@ -1,0 +1,1 @@
+# MERN-passportauth-template
