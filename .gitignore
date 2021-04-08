@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# env veriables you would want to ignore the .env file for safety
+
+
+#production bundle
+dist/
+public/js/app.js

@@ -6,12 +6,10 @@ import Nav from 'react-bootstrap/Nav'
 const navbar = () => {
     return (
         <Navbar bg="dark" variant="dark">
-            <Navbar.Brand href="/">Otto</Navbar.Brand>
+            <Navbar.Brand href="/">App Name</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="features">Features</Nav.Link>
-                <Nav.Link href="findride">Find RHM</Nav.Link>
-                <Nav.Link href="about">About OTTO</Nav.Link>
                 <Nav.Link href="pricing">Pricing</Nav.Link>
                 <Nav.Link href="contact">Contact Us</Nav.Link>
             </Nav>
